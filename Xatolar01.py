@@ -6,6 +6,8 @@ MANBA:
 
   Web sahifa:
     https://python.sariq.dev
+  !!! FOYDALANISHDAN MAQSAD:
+          Tayyor malumotlarni faqat o'rganish uchun oldim !
  """
 
 
